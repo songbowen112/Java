@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3da88851-5a0c-46c5-84f0-56198ab936fe" name="Default Changelist" comment="" />
+    <list default="true" id="3da88851-5a0c-46c5-84f0-56198ab936fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/colson/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,17 +36,28 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1gfJErKRFmtvPzMtdUVsPuHSvXL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Git Repository2/cloud2020" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="SvnConfiguration">
@@ -49,21 +75,51 @@
       <workItem from="1598836870598" duration="599000" />
       <workItem from="1598924113446" duration="599000" />
       <workItem from="1599010786355" duration="7144000" />
+      <workItem from="1599099099030" duration="1484000" />
+      <workItem from="1599115206716" duration="643000" />
+      <workItem from="1599124923367" duration="4815000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1599133031116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133031116" />
     <state x="686" y="215" key="FileChooserDialogImpl" timestamp="1599039686600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598580093904" />
     <state x="686" y="215" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599039686600" />
+    <state width="1877" height="219" key="GridCell.Tab.0.bottom" timestamp="1599132650456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="219" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599132650456" />
+    <state width="1877" height="219" key="GridCell.Tab.0.center" timestamp="1599132650456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="219" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599132650456" />
+    <state width="1877" height="219" key="GridCell.Tab.0.left" timestamp="1599132650455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="219" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599132650455" />
+    <state width="1877" height="219" key="GridCell.Tab.0.right" timestamp="1599132650456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="219" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599132650456" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1599038997904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599038997904" />
+    <state x="334" y="224" key="new project wizard" timestamp="1599133013172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133013172" />
   </component>
 </project>
